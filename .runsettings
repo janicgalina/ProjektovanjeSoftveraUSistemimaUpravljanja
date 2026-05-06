@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <ResultsDirectory>.\TestResults</ResultsDirectory>
+    <TargetFrameworkVersion>.NETFramework,Version=v4.7.2</TargetFrameworkVersion>
+  </RunConfiguration>
+  <MSTest>
+    <ForcedLegacyMode>false</ForcedLegacyMode>
+  </MSTest>
+  <TestAdapterPaths>
+    <TestAdapterPath>packages\MSTest.TestAdapter.1.3.2\build\_common</TestAdapterPath>
+  </TestAdapterPaths>
+</RunSettings>

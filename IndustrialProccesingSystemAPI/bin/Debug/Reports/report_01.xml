@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report>
+  <GeneratedAt>2026-05-06T20:02:18.7649104+02:00</GeneratedAt>
+  <CompletedByType>
+    <TypeGroup Type="Prime" Count="2" />
+    <TypeGroup Type="IO" Count="3" />
+  </CompletedByType>
+  <AverageExecutionTimeByType>
+    <TypeGroup Type="Prime" AverageMs="51" />
+    <TypeGroup Type="IO" AverageMs="6345" />
+  </AverageExecutionTimeByType>
+  <FailedByType />
+</Report>

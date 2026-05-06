@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IndustrialProccesingSystemAPI/IndustrialProccesingSystemAPI.csproj" Id="648fac52-6cbd-4bed-ac5a-91b86968e185" />
+  <Project Path="UnitTestProject/UnitTestProject.csproj" Id="59916a5b-d19e-4c37-8e27-d713e18b11ca" />
+</Solution>
