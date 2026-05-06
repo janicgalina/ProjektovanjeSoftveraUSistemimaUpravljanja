@@ -15,15 +15,5 @@ namespace IndustrialProccesingSystemAPI
             completionSource = completionSource ?? throw new ArgumentNullException(nameof(completionSource));
             Result = completionSource.Task;
         }
-
-        internal bool TrySetResult(int value)
-        {
-            return completionSource.TrySetResult(value);
-        }
-
-        internal bool TrySetException(Exception exception)
-        {
-            return completionSource.TrySetException(exception);
-        }
     }
 }
